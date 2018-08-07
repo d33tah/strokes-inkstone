@@ -1,0 +1,22 @@
+body {
+  background-color: cornflowerblue;
+  margin: 0;
+  text-align: center;
+}
+
+body > div#header {
+  background-color: #226;
+  color: white;
+  font-size: 5vh;
+  line-height: 10vh;
+  margin: 10vh auto 0;
+  height: 10vh;
+  width: 70vh;
+}
+
+body > div#demo {
+  background-color: white;
+  margin: 0 auto 10vh;
+  height: 70vh;
+  width: 70vh;
+}
